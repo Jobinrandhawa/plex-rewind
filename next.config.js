@@ -15,7 +15,7 @@ module.exports = {
       },
       {
         protocol: 'https',
-        hostname: 'tautulli.rauno.eu', // TODO: read from NEXT_PUBLIC_TAUTULLI_URL
+        hostname: 'http://104.220.222.203:8181', // TODO: read from NEXT_PUBLIC_TAUTULLI_URL
       },
     ],
   },
